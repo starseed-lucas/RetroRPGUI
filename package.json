@@ -1,0 +1,31 @@
+{
+    "name": "RetroRPGUI",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "storybook": "storybook dev -p 6006",
+      "build-storybook": "storybook build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "@storybook/addon-essentials": "^7.6.6",
+      "@storybook/addon-interactions": "^7.6.6",
+      "@storybook/addon-links": "^7.6.6",
+      "@storybook/addon-onboarding": "^1.0.10",
+      "@storybook/blocks": "^7.6.6",
+      "@storybook/react": "^7.6.6",
+      "@storybook/react-webpack5": "^7.6.6",
+      "@storybook/test": "^7.6.6",
+      "@types/react": "^18.2.45",
+      "@types/react-dom": "^18.2.18",
+      "storybook": "^7.6.6",
+      "typescript": "^5.3.3"
+    }
+  }
